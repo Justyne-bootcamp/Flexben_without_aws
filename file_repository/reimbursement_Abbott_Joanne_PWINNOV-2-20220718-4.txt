@@ -1,0 +1,9 @@
+
+Employee Name:	Joanne, Abbott
+Employee Number:	12001
+Date Submitted:		Jul 18, 2022
+Transaction Number: PWINNOV-2-20220718-4
+Amount:	Php 14500
+Status:	submitted
+
+=== DETAILS ===

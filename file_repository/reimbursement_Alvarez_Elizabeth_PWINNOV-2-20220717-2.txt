@@ -1,0 +1,28 @@
+
+Employee Name:	Elizabeth, Alvarez
+Employee Number:	12002
+Date Submitted:		Jul 17, 2022
+Transaction Number: PWINNOV-2-20220717-2
+Amount:	Php 0
+Status:	submitted
+
+=== DETAILS ===
+CATEGORY:  APPLIANCE Claim Category
+
+Item # 1
+Date: 
+OR Number: 11111222224444
+Name of Establishment: laptop
+TIN of Establishment: 09123341
+Amount: Php 8000
+Status: draft
+
+CATEGORY:  Beauty & Wellness Claim Category
+Item # 2
+Date: 
+OR Number: 11111222224444
+Name of Establishment: spa
+TIN of Establishment: 09123341
+Amount: Php 1500
+Status: draft
+
